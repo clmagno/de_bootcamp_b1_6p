@@ -1,0 +1,51 @@
+2026-03-06 18:52:46,108 - INFO - Pipeline started
+2026-03-06 18:52:46,109 - INFO - Extracted 8 records.
+2026-03-06 18:52:46,109 - INFO - Cleaned 5 records.
+2026-03-06 18:52:46,109 - INFO - Deduplicated 4 records.
+2026-03-06 18:52:46,110 - INFO - Pipeline Done. Files Exported successfully!
+2026-03-06 19:04:51,253 - INFO - Pipeline started
+2026-03-06 19:04:51,257 - INFO - Extracted 8 records.
+2026-03-06 19:04:51,257 - INFO - Cleaned 5 records.
+2026-03-06 19:04:51,257 - INFO - Deduplicated 4 records.
+2026-03-06 19:04:51,259 - INFO - Pipeline Done. Files Exported successfully!
+2026-03-06 19:05:59,487 - INFO - Pipeline started
+2026-03-06 19:05:59,487 - INFO - Extracted 8 records.
+2026-03-06 19:05:59,487 - INFO - Cleaned 7 records.
+2026-03-06 19:05:59,492 - INFO - Deduplicated 6 records.
+2026-03-06 19:05:59,493 - INFO - Pipeline Done. Files Exported successfully!
+2026-03-06 19:08:48,693 - INFO - Pipeline started
+2026-03-06 19:08:48,693 - INFO - Extracted 8 records.
+2026-03-06 19:08:48,693 - INFO - Cleaned 7 records.
+2026-03-06 19:08:48,693 - INFO - Deduplicated 6 records.
+2026-03-06 19:08:48,695 - INFO - Pipeline Done. Files Exported successfully!
+2026-03-06 19:09:07,490 - INFO - Pipeline started
+2026-03-06 19:09:07,490 - WARNING - Input file is empty
+2026-03-06 19:09:07,490 - INFO - Extracted 0 records.
+2026-03-06 19:09:07,490 - INFO - Cleaned 0 records.
+2026-03-06 19:09:07,490 - INFO - Deduplicated 0 records.
+2026-03-06 19:09:07,491 - INFO - Pipeline Done. Files Exported successfully!
+2026-03-06 19:11:06,670 - INFO - Pipeline started
+2026-03-06 19:11:06,670 - WARNING - Input file is empty
+2026-03-06 19:11:06,670 - INFO - Extracted 0 records.
+2026-03-06 19:11:06,670 - INFO - Cleaned 0 records.
+2026-03-06 19:11:06,670 - INFO - Deduplicated 0 records.
+2026-03-06 19:11:06,671 - INFO - Pipeline Done. Files Exported successfully!
+2026-03-06 19:11:23,166 - INFO - Pipeline started
+2026-03-06 19:11:36,946 - INFO - Pipeline started
+2026-03-06 19:11:36,946 - ERROR - Invalid JSON format in file: source/invalid_trans.json
+2026-03-06 19:11:36,946 - INFO - Extracted 0 records.
+2026-03-06 19:11:36,946 - INFO - Cleaned 0 records.
+2026-03-06 19:11:36,946 - INFO - Deduplicated 0 records.
+2026-03-06 19:11:36,947 - INFO - Pipeline Done. Files Exported successfully!
+2026-03-06 19:15:30,885 - INFO - Pipeline started
+2026-03-06 19:15:30,885 - INFO - Extracted 8 records.
+2026-03-06 19:15:30,885 - WARNING - Abnormally Large Transaction: 10000000000
+2026-03-06 19:15:30,885 - INFO - Cleaned 6 records.
+2026-03-06 19:15:30,885 - INFO - Deduplicated 5 records.
+2026-03-06 19:15:30,886 - INFO - Pipeline Done. Files Exported successfully!
+2026-03-06 19:16:46,492 - INFO - Pipeline started
+2026-03-06 19:16:46,492 - INFO - Extracted 8 records.
+2026-03-06 19:16:46,492 - WARNING - Abnormally Large Transaction: 10000000000
+2026-03-06 19:16:46,492 - INFO - Cleaned 6 records.
+2026-03-06 19:16:46,493 - INFO - Deduplicated 5 records.
+2026-03-06 19:16:46,493 - INFO - Pipeline Done. Files Exported successfully!
