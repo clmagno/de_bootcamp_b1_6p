@@ -41,3 +41,34 @@
 2026-03-09 17:55:28,889 - INFO - Weather data fetched successfully.
 2026-03-09 17:55:28,890 - INFO - Logger setup completed.
 2026-03-09 17:55:28,891 - INFO - Raw data saved successfully.
+2026-03-09 18:27:08,398 - INFO - Logger setup completed.
+2026-03-09 18:27:08,398 - INFO - Weather Pipeline started
+2026-03-09 18:27:09,322 - INFO - Weather data fetched successfully.
+2026-03-09 18:27:09,324 - INFO - Raw data saved successfully.
+2026-03-09 18:35:58,736 - INFO - Logger setup completed.
+2026-03-09 18:35:58,736 - INFO - Weather Pipeline started
+2026-03-09 18:35:59,526 - INFO - Weather data fetched successfully.
+2026-03-09 18:35:59,527 - INFO - Raw data saved successfully.
+2026-03-09 18:35:59,531 - ERROR - Unexpected API format: 'precipitation'
+2026-03-09 18:35:59,532 - INFO - Clean data saved successfully.
+2026-03-09 18:37:33,555 - INFO - Logger setup completed.
+2026-03-09 18:37:33,556 - INFO - Weather Pipeline started
+2026-03-09 18:37:34,809 - INFO - Weather data fetched successfully.
+2026-03-09 18:37:34,812 - INFO - Raw data saved successfully.
+2026-03-09 18:37:34,812 - INFO - Transformed 168 records.
+2026-03-09 18:37:34,815 - INFO - Clean data saved successfully.
+2026-03-09 18:39:10,433 - INFO - Logger setup completed.
+2026-03-09 18:39:10,433 - INFO - Weather Pipeline started
+2026-03-09 18:39:11,399 - INFO - Weather data fetched successfully.
+2026-03-09 18:39:11,401 - INFO - Raw data saved successfully.
+2026-03-09 18:39:11,401 - INFO - Transformed 168 records.
+2026-03-09 18:39:11,404 - INFO - Clean data saved successfully.
+2026-03-09 18:45:24,773 - INFO - Logger setup completed.
+2026-03-09 18:45:24,773 - INFO - Weather Pipeline started
+2026-03-09 18:45:25,621 - INFO - Weather data fetched successfully.
+2026-03-09 18:45:25,622 - INFO - Raw data saved successfully.
+2026-03-09 18:45:25,622 - INFO - Transformed 168 records.
+2026-03-09 18:45:25,625 - INFO - Clean data saved successfully.
+2026-03-09 18:45:25,625 - INFO - Summary generated successfully.
+2026-03-09 18:45:25,629 - INFO - Summary saved successfully.
+2026-03-09 18:45:25,630 - INFO - Weather Pipeline completed

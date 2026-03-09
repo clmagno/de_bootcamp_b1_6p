@@ -2,19 +2,15 @@
 # transform/clean ->store raw data -> generate summary
 # save output file
 
-
-import json
 import requests
+import json
 import logging
 from logger import setup_logger
 
 
-
-
-
 def fetch_weather(api_url,latitude,longitude, timezone):
      
-    setup_logger()
+    # setup_logger()
     params = {
         "latitude": latitude,
         "longitude": longitude,
@@ -35,7 +31,9 @@ def fetch_weather(api_url,latitude,longitude, timezone):
         return None
 
 def save_raw(data, filename):
-    setup_logger()
+    """
+    BRONZE LAYER: Save raw weather data to a JSON file.
+    """
     with open(filename, 'w') as file:
         json.dump(data, file, indent=4)
     logging.info("Raw data saved successfully.")
