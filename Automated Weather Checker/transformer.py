@@ -37,7 +37,9 @@ def save_clean_data(data, filename):
 
 
 def generate_summary(records):
-  
+    """
+    SILVER LAYER: Generate a summary of weather data.
+    """
 
     if not records:
         return None
