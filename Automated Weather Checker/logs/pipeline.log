@@ -1,0 +1,43 @@
+2026-03-09 17:41:52,714 - INFO - Logger setup completed.
+2026-03-09 17:41:52,714 - INFO - Logger setup completed.
+2026-03-09 17:41:52,714 - INFO - Weather Pipeline started
+2026-03-09 17:44:23,199 - INFO - Logger setup completed.
+2026-03-09 17:44:43,417 - INFO - Logger setup completed.
+2026-03-09 17:44:43,417 - INFO - Logger setup completed.
+2026-03-09 17:44:43,418 - INFO - Weather Pipeline started
+2026-03-09 17:46:33,500 - INFO - Logger setup completed.
+2026-03-09 17:46:33,501 - INFO - Logger setup completed.
+2026-03-09 17:46:58,878 - INFO - Logger setup completed.
+2026-03-09 17:46:58,879 - INFO - Logger setup completed.
+2026-03-09 17:46:58,879 - INFO - Weather Pipeline started
+2026-03-09 17:49:37,441 - INFO - Logger setup completed.
+2026-03-09 17:49:37,444 - INFO - Logger setup completed.
+2026-03-09 17:49:37,445 - INFO - Weather Pipeline started
+2026-03-09 17:50:35,212 - INFO - Logger setup completed.
+2026-03-09 17:50:35,214 - INFO - Weather Pipeline started
+2026-03-09 17:50:35,214 - INFO - Logger setup completed.
+2026-03-09 17:51:48,748 - INFO - Logger setup completed.
+2026-03-09 17:51:48,748 - INFO - Weather Pipeline started
+2026-03-09 17:51:48,748 - INFO - Logger setup completed.
+2026-03-09 17:52:45,488 - INFO - Logger setup completed.
+2026-03-09 17:53:07,510 - INFO - Logger setup completed.
+2026-03-09 17:53:07,510 - INFO - Weather Pipeline started
+2026-03-09 17:53:07,510 - INFO - Logger setup completed.
+2026-03-09 17:53:08,466 - ERROR - Failed to fetch weather data. Status code: 436
+2026-03-09 17:53:08,466 - ERROR - Failed to fetch weather data.
+2026-03-09 17:53:20,306 - INFO - Logger setup completed.
+2026-03-09 17:53:20,306 - INFO - Weather Pipeline started
+2026-03-09 17:53:20,306 - INFO - Logger setup completed.
+2026-03-09 17:53:35,996 - ERROR - Failed to fetch weather data. Status code: 436
+2026-03-09 17:53:35,996 - ERROR - Failed to fetch weather data.
+2026-03-09 17:55:16,523 - INFO - Logger setup completed.
+2026-03-09 17:55:16,523 - INFO - Weather Pipeline started
+2026-03-09 17:55:16,523 - INFO - Logger setup completed.
+2026-03-09 17:55:17,372 - INFO - Weather data fetched successfully.
+2026-03-09 17:55:17,373 - INFO - Logger setup completed.
+2026-03-09 17:55:28,063 - INFO - Logger setup completed.
+2026-03-09 17:55:28,063 - INFO - Weather Pipeline started
+2026-03-09 17:55:28,063 - INFO - Logger setup completed.
+2026-03-09 17:55:28,889 - INFO - Weather data fetched successfully.
+2026-03-09 17:55:28,890 - INFO - Logger setup completed.
+2026-03-09 17:55:28,891 - INFO - Raw data saved successfully.
